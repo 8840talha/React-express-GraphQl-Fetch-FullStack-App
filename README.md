@@ -1,3 +1,3 @@
 # GraphQL Job Board
 
-Sample application used in the GraphQL by Example course.
+Playing with react with graphql and express on backend
